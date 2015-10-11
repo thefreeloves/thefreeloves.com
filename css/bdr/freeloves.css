@@ -5,7 +5,7 @@ ul li {
     list-style: none;
 }
 
-.bdr-slide {
+.bdr-slide-nav {
     color: lightgray;
     font-size: 50px;
     position: absolute;
@@ -16,23 +16,23 @@ ul li {
     color: gray;
 }
 
-.bdr-slide-left {
+.bdr-slide-nav-left {
     left: 0
 }
-.bdr-slide-right {
+.bdr-slide-nav-right {
     right: 0;
 }
 
-.slider {
+.bdr-slide-container {
     overflow: hidden;
     position: relative;
 }
 
-.bdr-slider-image {
+.bdr-slide {
     max-width: 50px;
     max-height: 50px;
 }
 
-.bdr-slider-image img {
+.bdr-slider img {
     max-width: 100%;
 }
