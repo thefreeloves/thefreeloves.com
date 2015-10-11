@@ -6,9 +6,9 @@ ul li {
 }
 
 .bdr-slide {
-    color: gray;
+    color: lightgray;
     font-size: 4em;
 }
 .bdr-slide:hover {
-    color: darkgray;
+    color: gray;
 }
