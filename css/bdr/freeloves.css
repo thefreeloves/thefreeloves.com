@@ -36,3 +36,8 @@ ul li {
 .bdr-slide img {
     max-width: 100%;
 }
+
+.bdr-slides {
+    padding: 0;
+    margin: 0;
+}
