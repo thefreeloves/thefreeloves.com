@@ -17,11 +17,9 @@ ul li {
 }
 
 .bdr-slide-left {
-    float: left;
     left: 0
 }
 .bdr-slide-right {
-    float: right;
     right: 0;
 }
 
