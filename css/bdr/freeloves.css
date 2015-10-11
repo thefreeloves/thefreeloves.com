@@ -37,8 +37,7 @@ ul li {
 }
 
 .bdr-slide {
-    max-width: 50px;
-    max-height: 50px;
+
 }
 
 .bdr-slide img {
@@ -48,4 +47,6 @@ ul li {
 .bdr-slides {
     padding: 0;
     margin: 0;
+    width: 100%;
+    height: 100%;
 }
