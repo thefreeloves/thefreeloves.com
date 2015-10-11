@@ -18,10 +18,8 @@ ul li {
     opacity: 0.4;
 }
 .bdr-slide-nav:hover {
-    opacity: 0.8;
-}
-.bdr-slide:hover {
     color: gray;
+    opacity: 0.8;
 }
 
 .bdr-slide-nav-left {
