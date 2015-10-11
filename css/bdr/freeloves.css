@@ -17,9 +17,11 @@ ul li {
     top: 50%;
     opacity: 0.6;
 }
+.bdr-slide-nav:hover {
+    opacity: 0.8;
+}
 .bdr-slide:hover {
     color: gray;
-    opacity: 0.8;
 }
 
 .bdr-slide-nav-left {
