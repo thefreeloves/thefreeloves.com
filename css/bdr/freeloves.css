@@ -15,7 +15,7 @@ ul li {
     position: absolute;
     margin-top: -25px;
     top: 50%;
-    opacity: 0.6;
+    opacity: 0.4;
 }
 .bdr-slide-nav:hover {
     opacity: 0.8;
