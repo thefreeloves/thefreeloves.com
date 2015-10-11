@@ -12,3 +12,9 @@ ul li {
 .bdr-slide:hover {
     color: gray;
 }
+
+
+.slider {
+    overflow: hidden;
+    position: relative;
+}
