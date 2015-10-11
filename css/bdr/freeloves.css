@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .bdr-slide {
     display: inline-block;
 }
