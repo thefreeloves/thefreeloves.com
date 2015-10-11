@@ -4,3 +4,10 @@
 ul li {
     list-style: none;
 }
+
+.bdr-slide {
+    color: gray;
+}
+.bdr-slide:hover {
+    color: darkgray;
+}
