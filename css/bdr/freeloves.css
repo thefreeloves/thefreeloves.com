@@ -13,6 +13,12 @@ ul li {
     color: gray;
 }
 
+.bdr-slide-left {
+    float: left;
+}
+.bdr-slide-right {
+    float: right;
+}
 
 .slider {
     overflow: hidden;
