@@ -24,6 +24,10 @@
     display: inline-block;
 }
 
+.bdr-navbar-links a {
+    text-decoration: none;
+}
+
 .bdr-navbar-links li + li {
     margin-left: 20px;
 }
