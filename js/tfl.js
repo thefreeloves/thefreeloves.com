@@ -1,9 +1,8 @@
 $(document).ready(function(){
   //cache DOM
   var zzz = $("#bdr-slide-container");
-  $("#bdr-slides");
-  var $slider = $('.slider');
-  var $slideContainer = $slider.find('.slides');
+  var $slider = $('.bdr-slide');
+  var $slideContainer = $('#bdr-slides');
   var $slides = $slideContainer.find('.li');
   var $toggleLeft = $('#toggle-left');
   var $toggleRight = $('#toggle-right');
