@@ -18,7 +18,7 @@ body {
 
 .bdr-slides {
     height: 100vh;
-    overflow: hidden;
+    width: 100%;
 }
 
 .bdr-slide {
