@@ -17,6 +17,10 @@ body {
     max-width: 100%;
 }
 
+#bdr-albums {
+    text-align: center;
+}
+
 #bdr-bio {
     padding: 40px;
     width: 600px;
