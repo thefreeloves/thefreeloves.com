@@ -11,13 +11,8 @@
     height: 110px;
 }
 
-.bdr-navbar-badge,.bdr-navbar-links {
+.bdr-navbar-links {
     display: inline-block;
-}
-
-.bdr-navbar-badge {
-    margin-left: 10px;
-    margin-top: 20px;
 }
 
 .bdr-navbar-links li {
