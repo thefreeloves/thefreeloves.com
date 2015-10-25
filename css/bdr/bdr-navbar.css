@@ -10,7 +10,7 @@
 .bdr-navbar-links li {
     vertical-align: middle;
     display: inline-block;
-    margin-top: -9px;
+    /*margin-top: 9px;*/
 }
 
 .bdr-navbar-links {
