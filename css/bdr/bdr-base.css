@@ -43,3 +43,7 @@ body {
 .bdr-social-link {
     vertical-align: middle;
 }
+
+.bdr-social-link + .bdr-social-link {
+    margin-left: 40px;
+}
