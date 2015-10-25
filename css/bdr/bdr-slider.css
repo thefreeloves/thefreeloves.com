@@ -44,6 +44,10 @@ ul li {
     width: 100%;
 }
 
+.bdr-slide {
+    margin: 0;
+}
+
 .bdr-slide img {
     width: 100vw;
 }
