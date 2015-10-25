@@ -29,7 +29,7 @@
 }
 
 .bdr-nav-link:hover {
-    background-color: lightgray;
+    background-color: dimgray;
 }
 
 .bdr-navbar-links li + li {
