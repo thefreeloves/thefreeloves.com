@@ -1,20 +1,10 @@
 $(document).ready(function(){
-  $(".nav ul li").children("ul").hide(); //hides the lists when documents loads
-
-
-  $(".nav ul li").hover(
-      function(){//onmouseover
-        $(this).children("ul").delay(450).slideDown(200);
-      },
-      function(){//onmouseout
-        $(this).children("ul").slideUp(200);
-      });
-
   //cache DOM
+  var zzz = $("#bdr-slide-container");
+  $("#bdr-slides");
   var $slider = $('.slider');
   var $slideContainer = $slider.find('.slides');
   var $slides = $slideContainer.find('.li');
-  var $slideImg = $slides.find('img');
   var $toggleLeft = $('#toggle-left');
   var $toggleRight = $('#toggle-right');
   var $pauseBtn = $('#pause-btn');
@@ -29,7 +19,6 @@ $(document).ready(function(){
   var interval;
 
   $slideContainer.css('width', width * $slides.length);
-  $slideImg.css('width', width);
 
   $pauseBtn.click(function(){stopSlider();$pauseBtn.toggle();$playBtn.toggle();});
   $playBtn.click(function(){startSlider();$playBtn.toggle();$pauseBtn.toggle();});
