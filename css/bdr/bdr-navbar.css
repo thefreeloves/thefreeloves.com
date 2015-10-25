@@ -22,10 +22,10 @@
 
 .bdr-navbar-links li {
     display: inline-block;
-    height: 40px;
 }
 
 .bdr-navbar-links a {
+    height: 40px;
     text-decoration: none;
     color: white;
     font-family: sans-serif;
