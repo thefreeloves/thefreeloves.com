@@ -17,7 +17,15 @@ body {
 
 .bdr-slide {
     display: inline-block;
+    height: 100%;
+    width: 100%;
+    text-align: center;
 }
+
+.bdr-slide img {
+    height: 100%;
+}
+
 ul li {
     list-style: none;
 }
