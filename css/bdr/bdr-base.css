@@ -27,3 +27,11 @@ body {
 .bdr-section h3 {
     text-align: center;
 }
+
+#bdr-social {
+    text-align: center;
+}
+
+.bdr-social-link img {
+    width: 100px;
+}
