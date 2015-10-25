@@ -16,9 +16,13 @@ body {
     height: 200px;
 }
 
+.bdr-slides {
+    height: 100vh;
+    overflow: hidden;
+}
+
 .bdr-slide {
     display: inline-block;
-    height: 95vh;
     width: 100%;
     text-align: center;
 }
