@@ -32,11 +32,11 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 450px;
+    width: 390px;
     transition: opacity 0.5s ease-out;
     z-index: 9999;
     opacity: 0.8;
-    height: 140px;
+    height: 98px;
 }
 
 .music-player {
