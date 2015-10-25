@@ -24,11 +24,12 @@
     font-size: 16px;
     font-family: arial, sans-serif;
     text-transform: uppercase;
-    opacity: 0.8;
+    opacity: 0.3;
 }
 
 .bdr-nav-link a {
     color: #CCCCCC;
+    opacity: 1;
     text-decoration: none;
 }
 
