@@ -1,3 +1,14 @@
+.bdr-navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.bdr-navbar {
+    height: 200px;
+}
+
 .bdr-slide {
     display: inline-block;
 }
