@@ -3,9 +3,9 @@ $(document).ready(function(){
   var zzz = $("#bdr-slide-container");
   var $slider = $('.bdr-slide');
   var $slideContainer = $('#bdr-slides');
-  var $slides = $slideContainer.find('.li');
-  var $toggleLeft = $('#toggle-left');
-  var $toggleRight = $('#toggle-right');
+  var $slides = $slideContainer.find('.bdr-slide');
+  var $toggleLeft = $('#bdr-toggle-left');
+  var $toggleRight = $('#bdr-toggle-right');
   var $pauseBtn = $('#pause-btn');
   var $playBtn = $('#play-btn');
 
