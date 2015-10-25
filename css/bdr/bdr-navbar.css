@@ -46,6 +46,7 @@
     z-index: 9999;
     opacity: 0.8;
     height: 98px;
+    border: none;
 }
 
 .music-player {
