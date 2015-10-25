@@ -7,16 +7,8 @@
     background-color: rgba(34,34,34,0.5);
 }
 
-.bdr-navbar {
-    /*height: 110px;*/
-}
-
-.bdr-navbar-links {
-    vertical-align: middle;
-    display: inline-block;
-}
-
 .bdr-navbar-links li {
+    vertical-align: middle;
     display: inline-block;
 }
 
