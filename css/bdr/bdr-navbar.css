@@ -12,6 +12,10 @@
     display: inline-block;
 }
 
+.bdr-navbar-links {
+    padding-left: 0;
+}
+
 .bdr-navbar-links a {
     padding: 15px;
     text-decoration: none;
