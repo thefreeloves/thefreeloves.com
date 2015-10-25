@@ -24,17 +24,16 @@
     font-size: 16px;
     font-family: arial, sans-serif;
     text-transform: uppercase;
-    opacity: 0.5;
 }
 
 .bdr-nav-link a {
-    color: white;
+    color: #CCCCCC;
     opacity: 1.5;
     text-decoration: none;
 }
 
 .bdr-nav-link:hover {
-    background-color: dimgray;
+    background-color: rgba(34,34,34,0.5);
 }
 
 .bdr-navbar-links li + li {
