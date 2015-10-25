@@ -28,9 +28,8 @@
     margin-left: 20px;
 }
 
-.bdr-music-player {
-    height: 75px;
-    width: 300px;
-    display: block;
-    float: left;
+.bdr-player {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
 }
