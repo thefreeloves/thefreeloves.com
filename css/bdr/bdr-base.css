@@ -7,10 +7,6 @@ body {
     color: lightgrey;
 }
 
-#bdr-albums {
-    text-align: center;
-}
-
 .bdr-album {
     display: inline-block;
     width: 400px;
@@ -28,6 +24,6 @@ body {
     margin-right: auto;
 }
 
-#bdr-bio h3 {
+.bdr-section h3 {
     text-align: center;
 }
