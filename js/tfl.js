@@ -17,7 +17,7 @@ $(document).ready(function(){
 
   var interval;
 
-  $slideContainer.css('width', width * $slides.length);
+  $slideContainer.css('width', width * $slides.length + 1);
 
   $pauseBtn.click(function(){stopSlider();$pauseBtn.toggle();$playBtn.toggle();});
   $playBtn.click(function(){startSlider();$playBtn.toggle();$pauseBtn.toggle();});
