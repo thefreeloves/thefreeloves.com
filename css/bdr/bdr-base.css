@@ -27,3 +27,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+#bdr-bio h3 {
+    text-align: center;
+}
