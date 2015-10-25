@@ -28,6 +28,10 @@
     text-transform: uppercase;
 }
 
+.bdr-nav-link:hover {
+    background-color: lightgray;
+}
+
 .bdr-navbar-links li + li {
     margin-left: 60px;
 }
