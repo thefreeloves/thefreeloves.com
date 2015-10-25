@@ -5,4 +5,9 @@
 .bdr-album {
     display: inline-block;
     width: 350px;
+    padding: 10px;
+}
+
+.bdr-album img {
+    max-width: 100%;
 }
