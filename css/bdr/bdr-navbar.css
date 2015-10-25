@@ -1,5 +1,3 @@
-
-
 .bdr-navbar {
     position: fixed;
     z-index: 2;
@@ -15,4 +13,8 @@
 
 .bdr-navbar-badge,.bdr-navbar-links {
     display: inline-block;
+}
+
+.bdr-navbar-badge {
+    margin-left: 10px;
 }
