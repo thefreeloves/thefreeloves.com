@@ -28,6 +28,7 @@
     text-decoration: none;
     color: white;
     font-family: sans-serif;
+    text-transform: uppercase;
 }
 
 .bdr-navbar-links li + li {
