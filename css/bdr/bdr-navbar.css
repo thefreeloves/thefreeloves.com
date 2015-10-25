@@ -25,6 +25,7 @@
     color: #CCCCCC;
     font-family: arial, sans-serif;
     text-transform: uppercase;
+    opacity: 0.8;
 }
 
 .bdr-nav-link a {
