@@ -26,6 +26,7 @@
 
 .bdr-navbar-links a {
     text-decoration: none;
+    color: white;
 }
 
 .bdr-navbar-links li + li {
