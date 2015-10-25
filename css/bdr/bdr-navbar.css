@@ -23,3 +23,7 @@
 .bdr-navbar-links li {
     display: inline-block;
 }
+
+.bdr-navbar-links li + .bdr-navbar-links li {
+    margin-left: 20px;
+}
