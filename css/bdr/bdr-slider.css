@@ -1,3 +1,7 @@
+body {
+    background-color: #191919;
+}
+
 .bdr-navbar {
     position: fixed;
     z-index: 2;
