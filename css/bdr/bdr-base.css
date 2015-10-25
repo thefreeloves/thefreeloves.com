@@ -24,10 +24,6 @@ body {
     margin-right: auto;
 }
 
-.bdr-section + .bdr-section {
-    margin-top: 40px;
-}
-
 .bdr-section {
     padding: 20px;
 }
