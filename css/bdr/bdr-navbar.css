@@ -18,3 +18,7 @@
 .bdr-navbar-badge {
     margin-left: 10px;
 }
+
+.bdr-navbar-links li {
+    display: inline-block;
+}
