@@ -20,3 +20,10 @@ body {
 .bdr-album img {
     max-width: 100%;
 }
+
+#bdr-bio {
+    padding: 40px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
