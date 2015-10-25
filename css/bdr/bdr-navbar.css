@@ -27,3 +27,10 @@
 .bdr-navbar-links li + li {
     margin-left: 20px;
 }
+
+.bdr-music-player {
+    height: 150px;
+    width: 450px;
+    display: block;
+    float: left;
+}
