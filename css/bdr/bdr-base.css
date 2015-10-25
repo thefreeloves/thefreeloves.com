@@ -39,3 +39,8 @@ body {
 .bdr-social-link img {
     max-width: 64px;
 }
+
+.bdr-social-link {
+    vertical-align: middle
+;
+}
