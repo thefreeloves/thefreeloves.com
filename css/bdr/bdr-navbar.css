@@ -12,6 +12,7 @@
 }
 
 .bdr-navbar-links {
+    vertical-align: middle;
     display: inline-block;
 }
 
