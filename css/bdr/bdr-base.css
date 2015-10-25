@@ -1,3 +1,8 @@
 * {
     box-sizing: border-box;
 }
+
+.bdr-album {
+    display: inline-block;
+    width: 350px;
+}
