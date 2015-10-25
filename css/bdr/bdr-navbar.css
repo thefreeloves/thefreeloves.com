@@ -36,6 +36,7 @@
     transition: opacity 0.5s ease-out;
     z-index: 9999;
     opacity: 0.8;
+    height: 140px;
 }
 
 .music-player {
