@@ -37,5 +37,5 @@ body {
 }
 
 .bdr-social-link img {
-    width: 100px;
+    max-width: 64px;
 }
