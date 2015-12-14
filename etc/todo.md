@@ -10,3 +10,5 @@
 
 * CSS validation W3C
 
+* delete redundant images
+
