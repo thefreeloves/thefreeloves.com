@@ -12,3 +12,4 @@
 
 * delete redundant images
 
+* Google analytics
